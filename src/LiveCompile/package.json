@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-eslint": "^10.0.1",
     "express": "^4.16.4",
     "fs": "0.0.1-security",
     "morgan": "^1.9.1"
